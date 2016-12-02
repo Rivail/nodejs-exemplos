@@ -1,0 +1,11 @@
+{
+	"name": "aula1",
+	"description": "projeto criado no curso nodejs",
+	"author": "Riva",
+	"version": "1.0.0",
+	"private": true,
+	"dependencies": {
+		"zipper": "*"
+	}
+	
+}
